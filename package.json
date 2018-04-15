@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Johan3953/Finals/issues"
   },
-  "homepage": "https://github.com/Johan3953/Finals",
+  "homepage": "https://github.com/Johan3953/Finals/blob/master/README.md",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.2",
